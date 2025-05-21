@@ -1,0 +1,6 @@
+a= int(input("Enter first Number :"))
+b= int(input("Enter second number :"))
+p_or_n=(a>0) and(b>0)
+print(p_or_n)
+print (a)
+print (b)
